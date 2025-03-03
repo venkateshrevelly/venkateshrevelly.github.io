@@ -21,7 +21,8 @@ title                    : "Venkatesh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Venkatesh Revelly"
-description              : "An amazing website."
+description              : "I am Revelly Venkatesh, a Data Analyst with experience in data visualization, business intelligence, and process optimization. I specialize in Power BI (DAX, Power Query), SQL, Python, and database management (Azure, Snowflake) to analyze and interpret complex data sets Currently, I work as an Analyst at Dr. Reddy’s, where I analyze transportation data to improve efficiency and optimize delivery processes. Previously, I worked as a QA Analyst at Sutherland, gaining experience in data validation and quality assurance.
+"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
